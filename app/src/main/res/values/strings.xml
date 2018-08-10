@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdaptarPractice</string>
+    <string-array name="country_name">
+
+        <item>Bangladesh </item>
+        <item>Pakistan</item>
+        <item>India</item>
+
+    </string-array>
+</resources>
